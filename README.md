@@ -1,6 +1,8 @@
 # BoardGameConsole
 
-Its a console game below are the snippets
+Its a console game below are the snippets and output results of Game and unit test.
+![image](https://user-images.githubusercontent.com/35574314/229579546-308a2e63-e1a3-47f1-b5da-d92325ab5c97.png)
+
 ![image](https://user-images.githubusercontent.com/35574314/229578939-8ecdb3dd-417e-4c2c-a0dd-8819645eaca8.png)
 
 ![image](https://user-images.githubusercontent.com/35574314/229578711-a6a6cb63-e81a-465f-bc96-da653961898a.png)
